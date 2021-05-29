@@ -214,7 +214,7 @@ r = results[0]
 t = time.time()
 f=True
 l=[]
-
+vehicle_count=[]
 print(len(results))
 for i in range(len(results)):
     r = results[i]
